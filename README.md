@@ -1,12 +1,11 @@
 # ¡Hola, soy Xocoduda! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-xocoduda-blue)](https://www.linkedin.com/in/xocoduda/)
-[![GitHub](https://img.shields.io/badge/GitHub-xocoduda-black)](https://github.com/xocoduda)
+![Foto de perfil](https://github.com/xocoduda/xocoduda/blob/main/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner.png)
 
 ---
 
 ## Sobre mí
-![Foto de perfil](https://github.com/xocoduda/xocoduda/blob/main/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner.png)
+
 Soy un desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas habilidades y compartir mis conocimientos con la comunidad. Tengo experiencia en diversas áreas del desarrollo de software, desde el frontend hasta el backend.
 
 ---
