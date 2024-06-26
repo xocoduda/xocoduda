@@ -6,7 +6,7 @@
 ---
 
 ## Sobre mí
-
+![Foto de perfil](https://github.com/xocoduda/tu-repositorio/blob/main/tu-imagen.jpg)
 Soy un desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas habilidades y compartir mis conocimientos con la comunidad. Tengo experiencia en diversas áreas del desarrollo de software, desde el frontend hasta el backend.
 
 ---
