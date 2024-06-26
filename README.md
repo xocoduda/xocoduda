@@ -52,8 +52,8 @@ Estoy abierto a colaborar en proyectos interesantes y contribuir a la comunidad.
 
 ## Contacto
 
-- **Correo electrónico:** [xocoduda@example.com](mailto:xocoduda@example.com)
-- **LinkedIn:** [linkedin.com/in/xocoduda](https://www.linkedin.com/in/xocoduda/)
+- **Correo electrónico:** [juan_xoco@hotmail.com](mailto:juan_xoco@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/ja-bg](https://www.linkedin.com/in/ja-bg/)
 - **GitHub:** [github.com/xocoduda](https://github.com/xocoduda)
 
 ---
