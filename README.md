@@ -1,6 +1,5 @@
-<div align="center>
-  <h1 align="center">¡Hola, soy Xocoduda! 👋</h1>
-</div>
+# ¡Hola, soy Xocoduda! 👋
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xocoduda-blue)](https://www.linkedin.com/in/xocoduda/)
 [![GitHub](https://img.shields.io/badge/GitHub-xocoduda-black)](https://github.com/xocoduda)
 
