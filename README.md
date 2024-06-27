@@ -33,7 +33,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 ## Proyectos Destacados
 
-### [Proyecto 1: Nombre del Proyecto](https://github.com/xocoduda/Travel-schedule)
+### [Proyecto 1: Agenda de viaje](https://github.com/xocoduda/Travel-schedule)
 Con esta aplicación podrás tener una agenda de viaje, en el que elegirás un país para viajar, y cuando lo hagas podrás tacharlo y eliminarlo.
 
 ### [Proyecto 2: Nombre del Proyecto](https://github.com/xocoduda/proyecto2)
