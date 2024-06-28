@@ -1,4 +1,4 @@
-# ¡Hola, soy Xocoduda! 👋
+# 👋 ¡Hola, soy Xocoduda! 👋
 
 ![Foto de perfil](https://github.com/xocoduda/xocoduda/blob/main/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner.png)
 
