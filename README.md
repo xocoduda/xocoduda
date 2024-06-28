@@ -34,10 +34,10 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## Proyectos Destacados
 
 ### [Proyecto 1: Agenda de viaje en React](https://github.com/xocoduda/Travel-schedule)
-Con esta aplicación podrás tener una agenda de viaje, en el que elegirás un país para viajar, y cuando lo hagas podrás tacharlo y eliminarlo.
+Aplicación en React con la que podrás tener una agenda de viaje, en el que elegirás un país para viajar, y cuando lo hagas podrás tacharlo y eliminarlo.
 
-### [Proyecto 2: Nombre del Proyecto](https://github.com/xocoduda/proyecto2)
-Descripción breve del proyecto y sus características principales.
+### [Proyecto 2: Nombre del Proyecto](https://github.com/xocoduda/Karaoke)
+Simulación de página web de un karaoke en la que podrás registrarte y comprar bonos regalos para tus amigos, reservar una de las salas y mejorar tu nivel de usuario.
 
 ### [Proyecto 3: Nombre del Proyecto](https://github.com/xocoduda/proyecto3)
 Descripción breve del proyecto y sus características principales.
