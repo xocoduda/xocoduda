@@ -43,7 +43,8 @@ Aplicación web en Django de un karaoke en la que podrás registrarte y comprar 
 Apliación web en Next.js en la que podrás ver los gastos de cada uno de los contribuyentes y los gastos totales por mes.
 
 ### [Proyecto 4: Gestor de librería en PHP](https://github.com/xocoduda/PHPCRUD)
-Apliación web en Next.js en la que podrás ver los gastos de cada uno de los contribuyentes y los gastos totales por mes.
+Apliación web en PHP en la que podrás crear libros, añadirlos a la biblioteca, prestarlos y devolverlos.
+
 ---
 
 ## Contribuciones y Colaboraciones
