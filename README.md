@@ -42,6 +42,8 @@ Aplicación web en Django de un karaoke en la que podrás registrarte y comprar 
 ### [Proyecto 3: Panel de cuentas en Next.js](https://github.com/xocoduda/Panel-de-cuentas)
 Apliación web en Next.js en la que podrás ver los gastos de cada uno de los contribuyentes y los gastos totales por mes.
 
+### [Proyecto 4: Gestor de librería en PHP](https://github.com/xocoduda/PHPCRUD)
+Apliación web en Next.js en la que podrás ver los gastos de cada uno de los contribuyentes y los gastos totales por mes.
 ---
 
 ## Contribuciones y Colaboraciones
